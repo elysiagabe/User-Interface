@@ -130,7 +130,7 @@ h1 {
 
 /****** SECTION1 STYLES ******/
 .section1 {
-	margin: 40px 0;
+	padding: 40px 0;
 }
 
 .section1 section {
@@ -143,5 +143,19 @@ h1 {
 }
 
 /****** SECTION2 STYLES ******/
+.section2 {
+	padding: 40px 0;
+	border-bottom: 1px solid #000;
+}
+
+.section2 section {
+	display: inline-block;
+	width: 275px;
+}
+
+.services, 
+.product {
+	margin-right: 20px;
+}
 
 /****** FOOTER STYLES ******/
