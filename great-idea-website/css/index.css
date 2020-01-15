@@ -94,7 +94,12 @@ nav img {
 	margin-left: 48px;
 }
 
-/****** TITLE STYLES ******/ 
+/****** TITLE BANNER STYLES ******/ 
+.banner {
+	padding: 72px 0;
+	border-bottom: 1px solid #000;
+}
+
 .title {
 	display: inline-block;
 	width: 55%;
