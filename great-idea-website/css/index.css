@@ -97,7 +97,29 @@ nav a {
 	font-weight: bolder;
 	letter-spacing: 2px;
 	text-transform: uppercase;
-	padding-right: 48px;
+	padding-bottom: 8px;
+	margin-right: 48px;
+}
+
+nav a:hover {
+	border-bottom: 1px solid;
+	animation-name: hover-colors;
+	animation-duration: .5s;
+}
+
+@keyframes hover-colors {
+	0% {
+		color: #fff;
+	}
+	25% {
+		color: #B9F3FF;
+	}
+	50% {
+		color: #DA73BC;
+	}
+	75% {
+		color: #45EC79;
+	}
 }
 
 nav img {
