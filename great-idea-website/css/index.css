@@ -108,6 +108,17 @@ nav img {
 	vertical-align: middle;
 }
 
+.title button {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 1.1em;
+	letter-spacing: 1px;
+	width: 175px;
+	height: 32px;
+	background: none;
+	border: 1px solid #000;
+	margin-top: 8px;
+}
+
 h1 {
 	font-size: 72px;
 }
