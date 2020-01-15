@@ -127,3 +127,21 @@ h1 {
 	vertical-align: middle;	
 	height: 100%;
 }
+
+/****** SECTION1 STYLES ******/
+.section1 {
+	margin: 40px 0;
+}
+
+.section1 section {
+	display: inline-block;
+	width: 425px;
+}
+
+.features {
+	margin-right: 20px;
+}
+
+/****** SECTION2 STYLES ******/
+
+/****** FOOTER STYLES ******/
